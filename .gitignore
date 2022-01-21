@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+.env
+
+src/global/config.ts
+
 # production
 /build
 
